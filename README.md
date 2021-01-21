@@ -6,10 +6,10 @@ Objectives
 
 ## Tracking in video
 
-###Benchmark
-###Bottom up approach
+### Benchmark
+### Bottom up approach
       Cropping
-###Results
+### Results
 
 ## Pose Estimation
 
