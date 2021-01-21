@@ -7,7 +7,7 @@ Objectives
 ## Tracking in video
 
 ### Benchmark
-### Bottom up approach
+### Top Down approach
 Cropping
 ### Results
 
