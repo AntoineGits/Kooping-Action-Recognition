@@ -8,7 +8,7 @@ Objectives
 
 ### Benchmark
 ### Bottom up approach
-      Cropping
+Cropping
 ### Results
 
 ## Pose Estimation
